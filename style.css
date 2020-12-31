@@ -1,0 +1,11 @@
+body { background-color: rgb(234, 241, 245);border-left: black 2px solid;}
+
+.titulo{ font-size: 200% ; font-family: ITALIC; font-weight:bold ;text-align: LEFT; color:BLACK (80, 16, 199, 0.808) ;position: relative; left: 5px;}
+
+.menu {position: relative; left: 5px;}
+
+ul.a {list-style-type: circle;}
+
+ol.a {list-style-type: I;}
+ol.b {list-style-type: upper-roman;}
+ol.c {list-style-type: lower-alpha;}
